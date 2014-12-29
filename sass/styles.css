@@ -1,0 +1,18 @@
+/**
+*
+* --------------------------------------------------------------------
+* Basic Patterns
+* --------------------------------------------------------------------
+*/
+/* Main Container */
+.container {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  margin: 0 auto; }
+
+/* The Columns. */
+[class^="col-"] {
+  float: left;
+  padding: 0 1em; }
+
+/*# sourceMappingURL=styles.css.map */
